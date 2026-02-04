@@ -11,3 +11,5 @@
 terraform init
 terraform plan
 terraform apply
+
+PR created for EC2 Strapi Terraform setup
